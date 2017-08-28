@@ -1,0 +1,71 @@
+/*Footer*/
+footer {
+  margin-top: 5rem;
+}
+i.fa.fa-github {
+  margin-left: 15px;
+  margin-top:5px;
+  font-size: 3.5em;
+  vertical-align: middle;
+}
+a.glyphicon.glyphicon-envelope {
+  margin-left: 10px;
+  margin-top:5px;
+  font-size: 2.5em;
+  top: 0.5em;
+}
+/* End Footer*/
+html, body{
+  background-image:url("https://www.walldevil.com/wallpapers/a80/blue-screensaver-wallpaper-shapes-clock-desktop-background-minimalism-abstract-metallic-blurred-breeze-stock.jpg");
+    background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment: fixed;
+  font-family: "Orbitron";
+  color:white;
+ }
+.main{
+  height:800px;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom:30px;
+  color:white;
+}
+h2{
+  display: inline;
+  margin:5px;
+  color:white;
+}
+h3{
+font-size: 15px;
+  color:white;
+}
+#title1{
+  font: 20px "Orbitron";
+  color:white;
+}
+#title2{
+  font: 20px "Orbitron";
+  color:white;
+}
+#time{
+margin-top: 70px;
+  color:white;
+}
+#credits{
+  margin-top:50px;
+  color:white;
+}
+.btn-danger{
+  font: bold 20px "Orbitron";
+
+    -moz-box-shadow: inset 0 0 10px #000000;
+  -webkit-box-shadow: inset 0 0 10px #000000;
+  box-shadow: inset 0 0 10px #000000;
+}
+#reset{
+  margin:15px;
+}
+#start{
+  margin:15px;
+}
